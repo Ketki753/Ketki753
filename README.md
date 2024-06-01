@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ketki753
 - 👀 I’m interested in software development and front end designing.
 - 🌱 I’m currently persuing B.Tech in Information Technology.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me? 9823808738(ketkibutale753@gmail.com)
 
 <!---
